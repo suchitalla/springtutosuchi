@@ -2,3 +2,4 @@ Spring Hateos
 Spring Hibernate
 Spring JPA
 Spring cache
+Spring Data Elastic Search
